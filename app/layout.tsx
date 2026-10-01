@@ -6,9 +6,6 @@ export const metadata: Metadata = {
   description:
     "ARCA Barber Jakarta: potongan presisi arsitektural, hot towel ritual, dan private sanctuary di Senopati. Booking sesi pribadi Anda.",
   openGraph: {
-    title: "BURGR — Burger Segar. Dibuat dengan Cinta.",
-    description:
-      "Daging sapi juicy, keju leleh, sayuran segar, dan saus rahasia khas kami. Pesan burger favoritmu hari ini.",
     siteName: "Arca Barber Shop",
     images: [
       {
